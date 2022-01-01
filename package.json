@@ -1,6 +1,6 @@
 {
     "name": "svelte-component-library-template",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "MIT",
     "description": "Svelte Component Library",
     "scripts": {
@@ -30,6 +30,7 @@
         "eslint": "^7.32.0",
         "eslint-config-prettier": "^8.3.0",
         "eslint-plugin-svelte3": "^3.2.1",
+        "micromatch": "^4.0.4",
         "prettier": "^2.4.1",
         "prettier-plugin-svelte": "^2.4.0",
         "sass-loader": "10.1.1",
